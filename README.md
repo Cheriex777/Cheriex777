@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hey, I'm Dakshayani 👋<br><br>🎓 B.Tech student at VJTI Mumbai<br><br>💻 Interested in Software Development, AI, and Open Source<br><br>🚀 Building projects and solving real-world problems through technology<br><br>📫 Open to collaboration and exciting opportunities<br>
+# Hey, I'm Dakshayani 👋<br>🎓 B.Tech student at VJTI Mumbai<br>💻 Interested in Software Development, AI, and Open Source<br>🚀 Building projects and solving real-world problems through technology<br>📫 Open to collaboration and exciting opportunities<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_dakshayani27_?igsh=MTBobnUwczhlZjNnZw%3D%3D&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dakshayani-borade-176702313?utm_source=share_via&utm_content=profile&utm_medium=member_ios) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dakshayaniborade@gmail.com) 
