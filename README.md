@@ -1,5 +1,16 @@
-# 💫 About Me:
-# Hey, I'm Dakshayani 👋<br><br>🎓 B.Tech student at VJTI Mumbai<br><br>💻 Interested in Software Development, AI, and Open Source<br><br>🚀 Building projects and solving real-world problems through technology<br><br>📫 Open to collaboration and exciting opportunities<br>
+<h3 align="center">💫 About Me</h3>
+
+<p align="center">
+Hey, I'm Dakshayani 👋
+</p>
+
+<p align="center">
+🎓 B.Tech student at VJTI Mumbai <br>
+💻 Interested in Software Development, AI, and Open Source <br>
+🚀 Building projects and solving real-world problems through technology <br>
+📫 Open to collaboration and exciting opportunities
+</p>
+
 
 
 ## 🌐 Socials:
