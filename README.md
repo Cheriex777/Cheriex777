@@ -88,19 +88,6 @@ GitHub's **native full-year contribution calendar** appears automatically on thi
 
 <br/>
 
-## 📌 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cheriex777&show_icons=true&theme=radical&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=FF00CC&icon_color=00E5FF&text_color=C9D1D9" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cheriex777&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00CC&text_color=C9D1D9" width="45%"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Cheriex777&theme=radical&hide_border=true&background=0D1117&ring=FF00CC&fire=00E5FF&currStreakLabel=00E5FF" width="80%"/>
-</div>
-
-<br/>
-
 ## ✍️ Dev Quote
 
 <div align="center">
