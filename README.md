@@ -110,7 +110,7 @@ GitHub's **native full-year contribution calendar** appears automatically on thi
 ![ML](https://img.shields.io/badge/Machine%20Learning-0D1117?style=for-the-badge&logoColor=white&color=1a1a2e&labelColor=00E5FF)
 ![DS](https://img.shields.io/badge/Data%20Science-0D1117?style=for-the-badge&logoColor=white&color=1a1a2e&labelColor=BC13FE)
 ![OSS](https://img.shields.io/badge/Open%20Source-0D1117?style=for-the-badge&logoColor=white&color=1a1a2e&labelColor=FF006E)
-![GSoC](https://img.shields.io/badge/GSoC%20Preparation-0D1117?style=for-the-badge&logoColor=white&color=1a1a2e&labelColor=00E5FF)
+
 
 </div>
 
