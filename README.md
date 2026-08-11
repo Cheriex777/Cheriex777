@@ -46,17 +46,23 @@ MATLAB + Fusion 360 based digital twin and simulation project.
 
 Cybersecurity project focused on discovering and defending undocumented/zombie APIs.
 
-📈 GitHub Activity — Last Year
+📈 GitHub Contributions
+
+🗓️ Full-Year Contribution Calendar
+
+GitHub's native contribution calendar below this README shows the complete year-round contribution history automatically.
+
+✨ Monthly Contribution Activity
 
 <div align="center">
 
-<!-- Full-year contribution calendar -->
-
-<img src="https://gitblend.com/api/contributions?username=Cheriex777&theme=dark&labels=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cheriex777&bg_color=0d1117&color=00e5ff&line=ff00cc&point=ffffff&area=true&hide_border=true&custom_title=Dakshayani's%20Monthly%20Contribution%20Activity&days=30" width="100%"/>
 
 </div>
 
-This shows the full contribution calendar rather than a short activity window.
+<p align="center">
+  <sub>🌌 Monthly activity • Cyan grid • Magenta activity line • Dark GitHub-style theme</sub>
+</p>
 
 📊 GitHub Summary Card
 
@@ -85,14 +91,6 @@ This shows the full contribution calendar rather than a short activity window.
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Cheriex777&theme=radical&hide_border=true" width="80%"/>
-
-</div>
-
-🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Cheriex777&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%"/>
 
 </div>
 
