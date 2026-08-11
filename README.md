@@ -1,141 +1,194 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Dakshayani%20Borade&fontSize=52&fontColor=ffffff&color=0:36BCF7,50:BC13FE,100:FF006E&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=DAKSHAYANI%20BORADE&fontSize=46&fontColor=FFEE00&fontAlign=50&fontAlignY=45&color=0:36BCF7,25:007CF0,50:BC13FE,75:FF006E,100:8B0000&animation=twinkling&desc=&descAlign=50&descAlignY=65" width="100%"/>
 
 </div>
-
-🫡 About Me
-
-Hey, I'm Dakshayani 👋
-
-🎓 B.Tech student at VJTI Mumbai💻 Interested in Full-Stack Development, Generative AI & Data Science🚀 Building real-world projects and solving problems through technology🧠 Exploring DSA, AI/ML and modern web technologies🤝 Open to collaboration, open-source contributions, internships and exciting opportunities
-
-💻 Tech Stack
-
-Programming Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,java,c,matlab" />
-</p>
-
-Web & Backend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,mysql" />
-</p>
-
-AI / Data Science & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,git,github,vscode" />
-</p>
-
-🚀 Featured Projects
-
-🤖 CareerX
-
-AI-Powered Career Assistant — MERN + Generative AI
-
-Resume analysis • Job description analysis • Skill-gap detection • ATS optimization • AI interview preparation
-
-🧩 Digital Twin of Automated Maze Solving Robot
-
-MATLAB + Fusion 360 based digital twin and simulation project.
-
-🛡️ Zombie API Discovery & Defence
-
-Cybersecurity project focused on discovering and defending undocumented/zombie APIs.
-
-📈 GitHub Contributions
-
-🗓️ Full-Year Contribution Calendar
-
-GitHub's native contribution calendar below this README shows the complete year-round contribution history automatically.
-
-✨ Monthly Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cheriex777&bg_color=0d1117&color=00e5ff&line=ff00cc&point=ffffff&area=true&hide_border=true&custom_title=Dakshayani's%20Monthly%20Contribution%20Activity&days=30" width="100%"/>
-
-</div>
-
-<p align="center">
-  <sub>🌌 Monthly activity • Cyan grid • Magenta activity line • Dark GitHub-style theme</sub>
-</p>
-
-📊 GitHub Summary Card
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cheriex777&theme=radical" width="100%"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cheriex777&theme=radical" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Cheriex777&theme=radical&utcOffset=5.5" width="48%"/>
+<h3 align="left">Hi 👋, I'm Dakshayani</h3>
+<h4 align="left">🎓 B.Tech student at VJTI Mumbai</h4>
 
-</div>
+<br/>
 
-📌 GitHub Stats
+- 💻 Interested in **Full‑Stack Development, Generative AI & Data Science**
+- 🚀 Building real-world projects and solving problems through technology
+- 🧠 Exploring **DSA, AI/ML** and modern web technologies
+- 🤝 Open to collaboration, open-source contributions, internships and exciting opportunities
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Cheriex777&show_icons=true&theme=radical&hide_border=true&rank_icon=github" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cheriex777&layout=compact&theme=radical&hide_border=true" width="48%"/>
-
-</div>
-
-🔥 Contribution Streak
+<br/>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Cheriex777&theme=radical&hide_border=true" width="80%"/>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/Cheriex777)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00A0FF)](https://www.linkedin.com/in/dakshayani-borade-176702313)
+[![Instagram](https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=FF006E)](https://www.instagram.com/_dakshayani27_)
+[![Gmail](https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FF3D3D)](mailto:your.email@gmail.com)
 
 </div>
 
-✍️ Dev Quote
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/pink-line.gif" width="100%"/>
+</div>
+
+## 💻 Tech Stack
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%"/>
+### Programming Languages
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=&align=center&showBorder=true&borderRadius=12&width=760&gap=14&bg=%230D1117&border=%2300E5FF&badge=%230D1117&line1=cplusplus%2CC%2B%2B%2C00599C%3Bpython%2CPython%2C3776AB%3Bjavascript%2CJavaScript%2CF7DF1E%3Btypescript%2CTypeScript%2C3178C6%3Bjava%2CJava%2C007396" alt="Programming Languages"/>
+
+### Frontend
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=&align=center&showBorder=true&borderRadius=12&width=760&gap=14&bg=%230D1117&border=%23BC13FE&badge=%230D1117&line1=html5%2CHTML5%2CE34F26%3Bcss3%2CCSS3%2C1572B6%3Breact%2CReact%2C61DAFB%3Btailwindcss%2CTailwind%20CSS%2C06B6D4" alt="Frontend"/>
+
+### Backend
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=&align=center&showBorder=true&borderRadius=12&width=760&gap=14&bg=%230D1117&border=%2300E5FF&badge=%230D1117&line1=node.js%2CNode.js%2C339933%3Bexpress%2CExpress.js%2C2A2A2A" alt="Backend"/>
+
+### Database
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=&align=center&showBorder=true&borderRadius=12&width=760&gap=14&bg=%230D1117&border=%23BC13FE&badge=%230D1117&line1=mongodb%2CMongoDB%2C47A248%3Bmysql%2CMySQL%2C4479A1" alt="Database"/>
+
+### AI / Data Science
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=&align=center&showBorder=true&borderRadius=12&width=760&gap=14&bg=%230D1117&border=%2300E5FF&badge=%230D1117&line1=python%2CPython%2C3776AB%3Bnumpy%2CNumPy%2C013243%3Bpandas%2Cpandas%2C150458%3Bscikitlearn%2Cscikit-learn%2CF7931E%3Bopenai%2CGenerative%20AI%2C412991" alt="AI and Data Science"/>
+<img src="https://img.shields.io/badge/NLP-FFEE00?style=for-the-badge&logoColor=000000&labelColor=0D1117&color=8B2CF5" alt="NLP"/>
+
+### Tools
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=&align=center&showBorder=true&borderRadius=12&width=760&gap=14&bg=%230D1117&border=%23BC13FE&badge=%230D1117&line1=git%2CGit%2CF05032%3Bgithub%2CGitHub%2C6E6E6E%3Bvisualstudiocode%2CVS%20Code%2C007ACC%3Bpostman%2CPostman%2CFF6C37%3Bmatlab%2CMATLAB%2C0076A8%3Bautodesk%2CFusion%20360%2CFF6600" alt="Tools"/>
 
 </div>
 
-🎯 Currently Learning
+<br/>
 
-🧠 Data Structures & Algorithms
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/pink-line.gif" width="100%"/>
+</div>
 
-🤖 Generative AI & Machine Learning
+## 🚀 Featured Projects
 
-🌐 Full-Stack Development
+<table>
+<tr>
+<td width="33%" valign="top">
 
-📊 Data Science
+### 🤖 CareerX
+AI-powered career assistant built using **MERN + Generative AI**.
 
-🤝 Connect With Me
+- 📄 Resume analysis
+- 📋 Job description analysis
+- 🎯 Skill-gap detection
+- ✅ ATS optimization
+- 🧠 AI-generated interview questions
+- ⚙️ AI resume optimization
+
+</td>
+<td width="33%" valign="top">
+
+### 🧩 Digital Twin — Maze Solving Robot
+Digital twin of an automated **maze-solving robot**, built with:
+
+- 🛠️ MATLAB
+- 🎨 Fusion 360
+
+Simulates and models robot behavior before physical deployment.
+
+</td>
+<td width="33%" valign="top">
+
+### 🛡️ Zombie API Discovery & Defence
+A cybersecurity project focused on:
+
+- 🔍 Discovering undocumented ("zombie") APIs
+- 🛡️ Building defensive detection mechanisms
+- 🚨 Reducing shadow-API attack surface
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/pink-line.gif" width="100%"/>
+</div>
+
+## 📅 GitHub Contribution Activity
+
+GitHub's **native full-year contribution calendar** appears automatically on this profile, directly below the bio — it is not an embeddable widget, so no image is placed here for it. It updates in real time.
+
+### ✨ Dakshayani's Monthly Contribution Graph ✨
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cheriex777&bg_color=0D1117&color=00E5FF&line=FF00CC&point=FFFFFF&area=true&area_color=FF00CC&hide_border=true&custom_title=%E2%9C%A8%20Dakshayani's%20Monthly%20Contribution%20Graph%20%E2%9C%A8&days=30" width="100%"/>
+</div>
+
+<br/>
+
+## 📦 GitHub Summary Card
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cheriex777&theme=radical" width="100%"/>
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cheriex777&theme=radical" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Cheriex777&theme=radical&utcOffset=5.5" width="49%"/>
+</div>
+
+<br/>
+
+## 📌 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cheriex777&show_icons=true&theme=radical&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=FF00CC&icon_color=00E5FF&text_color=C9D1D9" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cheriex777&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00CC&text_color=C9D1D9" width="45%"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Cheriex777&theme=radical&hide_border=true&background=0D1117&ring=FF00CC&fire=00E5FF&currStreakLabel=00E5FF" width="80%"/>
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Cheriex777&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7" width="100%"/>
+</div>
+
+<br/>
+
+## ✍️ Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/pink-line.gif" width="100%"/>
+</div>
+
+## 🎯 Currently Learning
 
 <div align="center">
 
-<a href="https://github.com/Cheriex777">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:your-email@example.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
-</a>
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0D1117?style=for-the-badge&logoColor=white&color=1a1a2e&labelColor=00E5FF)
+![FullStack](https://img.shields.io/badge/Full--Stack%20Development-0D1117?style=for-the-badge&logoColor=white&color=1a1a2e&labelColor=BC13FE)
+![GenAI](https://img.shields.io/badge/Generative%20AI-0D1117?style=for-the-badge&logoColor=white&color=1a1a2e&labelColor=FF006E)
+![ML](https://img.shields.io/badge/Machine%20Learning-0D1117?style=for-the-badge&logoColor=white&color=1a1a2e&labelColor=00E5FF)
+![DS](https://img.shields.io/badge/Data%20Science-0D1117?style=for-the-badge&logoColor=white&color=1a1a2e&labelColor=BC13FE)
+![OSS](https://img.shields.io/badge/Open%20Source-0D1117?style=for-the-badge&logoColor=white&color=1a1a2e&labelColor=FF006E)
+![GSoC](https://img.shields.io/badge/GSoC%20Preparation-0D1117?style=for-the-badge&logoColor=white&color=1a1a2e&labelColor=00E5FF)
 
 </div>
+
+<br/>
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Cheriex777&label=Profile%20Views&color=ff00cc&style=flat" />
-
-⭐ Thanks for visiting my profile!
-
+  <img src="https://komarev.com/ghpvc/?username=Cheriex777&label=Profile%20Views&color=BC13FE&style=for-the-badge" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=120&color=0:FF006E,50:BC13FE,100:36BCF7&section=footer" width="100%"/>
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:8B0000,25:FF006E,50:BC13FE,75:007CF0,100:36BCF7&section=footer&animation=twinkling" width="100%"/>
+</div>
