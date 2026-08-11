@@ -46,13 +46,17 @@ MATLAB + Fusion 360 based digital twin and simulation project.
 
 Cybersecurity project focused on discovering and defending undocumented/zombie APIs.
 
-📈 GitHub Activity
+📈 GitHub Activity — Last Year
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cheriex777&bg_color=0d1117&color=00e5ff&line=ff00cc&point=ffffff&area=true&hide_border=true&custom_title=Dakshayani's%20Contribution%20Graph" width="100%"/>
+<!-- Full-year contribution calendar -->
+
+<img src="https://gitblend.com/api/contributions?username=Cheriex777&theme=dark&labels=true" width="100%"/>
 
 </div>
+
+This shows the full contribution calendar rather than a short activity window.
 
 📊 GitHub Summary Card
 
@@ -109,8 +113,6 @@ Cybersecurity project focused on discovering and defending undocumented/zombie A
 🌐 Full-Stack Development
 
 📊 Data Science
-
-🌍 Open Source & GSoC
 
 🤝 Connect With Me
 
