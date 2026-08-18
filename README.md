@@ -11,19 +11,19 @@
 
 <br/>
 
-- 💻 Interested in **Full‑Stack Development, Generative AI & Data Science**
-- 🚀 Building real-world projects and solving problems through technology
-- 🧠 Exploring **DSA, AI/ML** and modern web technologies
-- 🤝 Open to collaboration, open-source contributions, internships and exciting opportunities
+* 💻 Interested in **Full-Stack Development, Generative AI & Data Science**
+* 🚀 Building real-world projects and solving problems through technology
+* 🧠 Exploring **DSA, AI/ML** and modern web technologies
+* 🤝 Open to collaboration, open-source contributions, internships and exciting opportunities
 
 <br/>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/Cheriex777)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00A0FF)](https://www.linkedin.com/in/dakshayani-borade-176702313)
-[![Instagram](https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=FF006E)](https://www.instagram.com/_dakshayani27_)
-[![Gmail](https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FF3D3D)](mailto:your.email@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=00E5FF)](https://github.com/Cheriex777)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge\&logo=linkedin\&logoColor=00A0FF)](https://www.linkedin.com/in/dakshayani-borade-176702313)
+[![Instagram](https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge\&logo=instagram\&logoColor=FF006E)](https://www.instagram.com/_dakshayani27_)
+[![Gmail](https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge\&logo=gmail\&logoColor=FF3D3D)](mailto:your.email@gmail.com)
 
 </div>
 
@@ -38,22 +38,28 @@
 <div align="center">
 
 ### Programming Languages
+
 <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=&align=center&showBorder=true&borderRadius=12&width=760&gap=14&bg=%230D1117&border=%2300E5FF&badge=%230D1117&line1=cplusplus%2CC%2B%2B%2C00599C%3Bpython%2CPython%2C3776AB%3Bjavascript%2CJavaScript%2CF7DF1E%3Btypescript%2CTypeScript%2C3178C6%3Bjava%2CJava%2C007396" alt="Programming Languages"/>
 
 ### Frontend
+
 <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=&align=center&showBorder=true&borderRadius=12&width=760&gap=14&bg=%230D1117&border=%23BC13FE&badge=%230D1117&line1=html5%2CHTML5%2CE34F26%3Bcss3%2CCSS3%2C1572B6%3Breact%2CReact%2C61DAFB%3Btailwindcss%2CTailwind%20CSS%2C06B6D4" alt="Frontend"/>
 
 ### Backend
+
 <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=&align=center&showBorder=true&borderRadius=12&width=760&gap=14&bg=%230D1117&border=%2300E5FF&badge=%230D1117&line1=node.js%2CNode.js%2C339933%3Bexpress%2CExpress.js%2C2A2A2A" alt="Backend"/>
 
 ### Database
+
 <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=&align=center&showBorder=true&borderRadius=12&width=760&gap=14&bg=%230D1117&border=%23BC13FE&badge=%230D1117&line1=mongodb%2CMongoDB%2C47A248%3Bmysql%2CMySQL%2C4479A1" alt="Database"/>
 
 ### AI / Data Science
+
 <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=&align=center&showBorder=true&borderRadius=12&width=760&gap=14&bg=%230D1117&border=%2300E5FF&badge=%230D1117&line1=python%2CPython%2C3776AB%3Bnumpy%2CNumPy%2C013243%3Bpandas%2Cpandas%2C150458%3Bscikitlearn%2Cscikit-learn%2CF7931E%3Bopenai%2CGenerative%20AI%2C412991" alt="AI and Data Science"/>
 <img src="https://img.shields.io/badge/NLP-FFEE00?style=for-the-badge&logoColor=000000&labelColor=0D1117&color=8B2CF5" alt="NLP"/>
 
 ### Tools
+
 <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=&align=center&showBorder=true&borderRadius=12&width=760&gap=14&bg=%230D1117&border=%23BC13FE&badge=%230D1117&line1=git%2CGit%2CF05032%3Bgithub%2CGitHub%2C6E6E6E%3Bvisualstudiocode%2CVS%20Code%2C007ACC%3Bpostman%2CPostman%2CFF6C37%3Bmatlab%2CMATLAB%2C0076A8%3Bautodesk%2CFusion%20360%2CFF6600" alt="Tools"/>
 
 </div>
@@ -64,15 +70,14 @@
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/pink-line.gif" width="100%"/>
 </div>
 
-
 ## 📅 GitHub Contribution Activity
 
-GitHub's **native full-year contribution calendar** appears automatically on this profile, directly below the bio — it is not an embeddable widget, so no image is placed here for it. It updates in real time.
+GitHub's **native full-year contribution calendar** appears automatically on this profile, directly below the bio — it is not an embeddable widget, so no image is placed here. It updates in real time.
 
-### ✨ Dakshayani's Monthly Contribution Graph ✨
+### ✨ Dakshayani's 90-Day Contribution Graph ✨
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cheriex777&bg_color=0D1117&color=00E5FF&line=FF00CC&point=FFFFFF&area=true&area_color=FF00CC&hide_border=true&custom_title=%E2%9C%A8%20Dakshayani's%20Monthly%20Contribution%20Graph%20%E2%9C%A8&days=30" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cheriex777&bg_color=0D1117&color=00E5FF&line=FF00CC&point=FFFFFF&area=true&area_color=FF00CC&hide_border=true&custom_title=%E2%9C%A8%20Dakshayani's%2090-Day%20Contribution%20Graph%20%E2%9C%A8&days=90" width="100%"/>
 </div>
 
 <br/>
@@ -104,13 +109,12 @@ GitHub's **native full-year contribution calendar** appears automatically on thi
 
 <div align="center">
 
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0D1117?style=for-the-badge&logoColor=white&color=1a1a2e&labelColor=00E5FF)
-![FullStack](https://img.shields.io/badge/Full--Stack%20Development-0D1117?style=for-the-badge&logoColor=white&color=1a1a2e&labelColor=BC13FE)
-![GenAI](https://img.shields.io/badge/Generative%20AI-0D1117?style=for-the-badge&logoColor=white&color=1a1a2e&labelColor=FF006E)
-![ML](https://img.shields.io/badge/Machine%20Learning-0D1117?style=for-the-badge&logoColor=white&color=1a1a2e&labelColor=00E5FF)
-![DS](https://img.shields.io/badge/Data%20Science-0D1117?style=for-the-badge&logoColor=white&color=1a1a2e&labelColor=BC13FE)
-![OSS](https://img.shields.io/badge/Open%20Source-0D1117?style=for-the-badge&logoColor=white&color=1a1a2e&labelColor=FF006E)
-
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0D1117?style=for-the-badge\&logoColor=white\&color=1a1a2e\&labelColor=00E5FF)
+![FullStack](https://img.shields.io/badge/Full--Stack%20Development-0D1117?style=for-the-badge\&logoColor=white\&color=1a1a2e\&labelColor=BC13FE)
+![GenAI](https://img.shields.io/badge/Generative%20AI-0D1117?style=for-the-badge\&logoColor=white\&color=1a1a2e\&labelColor=FF006E)
+![ML](https://img.shields.io/badge/Machine%20Learning-0D1117?style=for-the-badge\&logoColor=white\&color=1a1a2e\&labelColor=00E5FF)
+![DS](https://img.shields.io/badge/Data%20Science-0D1117?style=for-the-badge\&logoColor=white\&color=1a1a2e\&labelColor=BC13FE)
+![OSS](https://img.shields.io/badge/Open%20Source-0D1117?style=for-the-badge\&logoColor=white\&color=1a1a2e\&labelColor=FF006E)
 
 </div>
 
