@@ -80,16 +80,6 @@ GitHub's **native full-year contribution calendar** appears automatically on thi
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cheriex777&bg_color=0D1117&color=00E5FF&line=FF00CC&point=FFFFFF&area=true&area_color=FF00CC&hide_border=true&custom_title=%E2%9C%A8%20Dakshayani's%2090-Day%20Contribution%20Graph%20%E2%9C%A8&days=90" width="100%"/>
 </div>
 
-<br/>
-
-## 📦 GitHub Summary Card
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cheriex777&theme=radical" width="100%"/>
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cheriex777&theme=radical" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Cheriex777&theme=radical&utcOffset=5.5" width="49%"/>
-</div>
 
 <br/>
 
