@@ -11,10 +11,10 @@
 
 <br/>
 
-* 💻 Interested in **Full-Stack Development, Generative AI & Data Science**
-* 🚀 Building real-world projects and solving problems through technology
-* 🧠 Exploring **DSA, AI/ML** and modern web technologies
-* 🤝 Open to collaboration, open-source contributions, internships and exciting opportunities
+- 💻 Interested in **Full-Stack Development, Generative AI & Data Science**
+- 🚀 Building real-world projects and solving problems through technology
+- 🧠 Exploring **DSA, AI/ML** and modern web technologies
+- 🤝 Open to collaboration, open-source contributions, internships and exciting opportunities
 
 <br/>
 
@@ -73,13 +73,17 @@
 
 ## 📅 GitHub Contribution Activity
 
-GitHub's **native full-year contribution calendar** appears automatically on this profile, directly below the bio — it is not an embeddable widget, so no image is placed here. It updates in real time.
+GitHub's **native contribution calendar** appears automatically on your profile.
 
-### ✨ Dakshayani's 60-Day Contribution Graph ✨
+### ✨ Dakshayani's Contribution Graph ✨
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cheriex777&bg_color=0D1117&color=00E5FF&line=FF00CC&point=FFFFFF&area=true&area_color=FF00CC&hide_border=true&custom_title=%E2%9C%A8%20Dakshayani's%2060-Day%20Contribution%20Graph%20%E2%9C%A8&days=60" width="100%"/>
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Cheriex777&bg_color=0D1117&color=00E5FF&line=FF00CC&point=FFFFFF&area=true&area_color=FF00CC&hide_border=true&custom_title=Dakshayani%27s%20Contribution%20Graph"
+  width="100%"
+  alt="Dakshayani's GitHub Contribution Graph"
+/>
 
 </div>
 
@@ -121,7 +125,7 @@ GitHub's **native full-year contribution calendar** appears automatically on thi
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Cheriex777&label=Profile%20Views&color=BC13FE&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Cheriex777&label=Profile%20Views&color=BC13FE&style=for-the-badge"/>
 
 </div>
 
