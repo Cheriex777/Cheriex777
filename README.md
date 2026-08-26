@@ -20,10 +20,10 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=00E5FF)](https://github.com/Cheriex777)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge\&logo=linkedin\&logoColor=00A0FF)](https://www.linkedin.com/in/dakshayani-borade-176702313)
-[![Instagram](https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge\&logo=instagram\&logoColor=FF006E)](https://www.instagram.com/_dakshayani27_)
-[![Gmail](https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge\&logo=gmail\&logoColor=FF3D3D)](mailto:your.email@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/Cheriex777)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00A0FF)](https://www.linkedin.com/in/dakshayani-borade-176702313)
+[![Instagram](https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=FF006E)](https://www.instagram.com/_dakshayani27_)
+[![Gmail](https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FF3D3D)](mailto:your.email@gmail.com)
 
 </div>
 
@@ -56,6 +56,7 @@
 ### AI / Data Science
 
 <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=&align=center&showBorder=true&borderRadius=12&width=760&gap=14&bg=%230D1117&border=%2300E5FF&badge=%230D1117&line1=python%2CPython%2C3776AB%3Bnumpy%2CNumPy%2C013243%3Bpandas%2Cpandas%2C150458%3Bscikitlearn%2Cscikit-learn%2CF7931E%3Bopenai%2CGenerative%20AI%2C412991" alt="AI and Data Science"/>
+
 <img src="https://img.shields.io/badge/NLP-FFEE00?style=for-the-badge&logoColor=000000&labelColor=0D1117&color=8B2CF5" alt="NLP"/>
 
 ### Tools
@@ -74,12 +75,11 @@
 
 GitHub's **native full-year contribution calendar** appears automatically on this profile, directly below the bio — it is not an embeddable widget, so no image is placed here. It updates in real time.
 
-### ✨ Dakshayani's 90-Day Contribution Graph ✨
+### ✨ Dakshayani's 60-Day Contribution Graph ✨
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cheriex777&bg_color=0D1117&color=00E5FF&line=FF00CC&point=FFFFFF&area=true&area_color=FF00CC&hide_border=true&custom_title=%E2%9C%A8%20Dakshayani's%2090-Day%20Contribution%20Graph%20%E2%9C%A8&days=90" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cheriex777&bg_color=0D1117&color=00E5FF&line=FF00CC&point=FFFFFF&area=true&area_color=FF00CC&hide_border=true&custom_title=%E2%9C%A8%20Dakshayani's%2060-Day%20Contribution%20Graph%20%E2%9C%A8&days=60" width="100%"/>
 </div>
-
 
 <br/>
 
@@ -99,12 +99,17 @@ GitHub's **native full-year contribution calendar** appears automatically on thi
 
 <div align="center">
 
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0D1117?style=for-the-badge\&logoColor=white\&color=1a1a2e\&labelColor=00E5FF)
-![FullStack](https://img.shields.io/badge/Full--Stack%20Development-0D1117?style=for-the-badge\&logoColor=white\&color=1a1a2e\&labelColor=BC13FE)
-![GenAI](https://img.shields.io/badge/Generative%20AI-0D1117?style=for-the-badge\&logoColor=white\&color=1a1a2e\&labelColor=FF006E)
-![ML](https://img.shields.io/badge/Machine%20Learning-0D1117?style=for-the-badge\&logoColor=white\&color=1a1a2e\&labelColor=00E5FF)
-![DS](https://img.shields.io/badge/Data%20Science-0D1117?style=for-the-badge\&logoColor=white\&color=1a1a2e\&labelColor=BC13FE)
-![OSS](https://img.shields.io/badge/Open%20Source-0D1117?style=for-the-badge\&logoColor=white\&color=1a1a2e\&labelColor=FF006E)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0D1117?style=for-the-badge&logoColor=white&color=1a1a2e&labelColor=00E5FF)
+
+![FullStack](https://img.shields.io/badge/Full--Stack%20Development-0D1117?style=for-the-badge&logoColor=white&color=1a1a2e&labelColor=BC13FE)
+
+![GenAI](https://img.shields.io/badge/Generative%20AI-0D1117?style=for-the-badge&logoColor=white&color=1a1a2e&labelColor=FF006E)
+
+![ML](https://img.shields.io/badge/Machine%20Learning-0D1117?style=for-the-badge&logoColor=white&color=1a1a2e&labelColor=00E5FF)
+
+![DS](https://img.shields.io/badge/Data%20Science-0D1117?style=for-the-badge&logoColor=white&color=1a1a2e&labelColor=BC13FE)
+
+![OSS](https://img.shields.io/badge/Open%20Source-0D1117?style=for-the-badge&logoColor=white&color=1a1a2e&labelColor=FF006E)
 
 </div>
 
