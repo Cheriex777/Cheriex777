@@ -61,17 +61,6 @@
 
 <br/><br/>
 
-## 🤖 AI & Data Science
-
-<img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn&theme=dark&perline=4"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Generative%20AI-BC13FE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-FF006E?style=for-the-badge"/>
-
-<br/><br/>
-
 ## 🛠️ Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,matlab&theme=dark&perline=5"/>
