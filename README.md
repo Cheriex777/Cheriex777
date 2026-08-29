@@ -1,13 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=DAKSHAYANI%20BORADE&fontSize=46&fontColor=FFEE00&fontAlign=50&fontAlignY=45&color=0:36BCF7,25:007CF0,50:BC13FE,75:FF006E,100:8B0000&animation=twinkling&desc=&descAlign=50&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=DAKSHAYANI%20BORADE&fontSize=46&fontColor=FFEE00&fontAlign=50&fontAlignY=45&color=0:36BCF7,25:007CF0,50:BC13FE,75:FF006E,100:8B0000&animation=twinkling" width="100%"/>
 
 </div>
 
 <br/>
 
-<h3 align="left">Hi 👋, I'm Dakshayani</h3>
-<h4 align="left">🎓 B.Tech student at VJTI Mumbai</h4>
+<h3>Hi 👋, I'm Dakshayani</h3>
+
+<h4>🎓 B.Tech Student at VJTI Mumbai</h4>
 
 <br/>
 
@@ -23,103 +24,121 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/Cheriex777)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00A0FF)](https://www.linkedin.com/in/dakshayani-borade-176702313)
 [![Instagram](https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=FF006E)](https://www.instagram.com/_dakshayani27_)
-[![Gmail](https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FF3D3D)](mailto:your.email@gmail.com)
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/pink-line.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/pink-line.gif" width="100%"/>
 </div>
 
 # 💻 Tech Stack
 
 <div align="center">
 
-### Programming Languages
+## 👩‍💻 Programming Languages
 
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=&align=center&showBorder=true&borderRadius=12&width=760&gap=14&bg=%230D1117&border=%2300E5FF&badge=%230D1117&line1=cplusplus%2CC%2B%2B%2C00599C%3Bpython%2CPython%2C3776AB%3Bjavascript%2CJavaScript%2CF7DF1E%3Btypescript%2CTypeScript%2C3178C6%3Bjava%2CJava%2C007396" alt="Programming Languages"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,java&theme=dark&perline=5"/>
 
-### Frontend
+<br/><br/>
 
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=&align=center&showBorder=true&borderRadius=12&width=760&gap=14&bg=%230D1117&border=%23BC13FE&badge=%230D1117&line1=html5%2CHTML5%2CE34F26%3Bcss3%2CCSS3%2C1572B6%3Breact%2CReact%2C61DAFB%3Btailwindcss%2CTailwind%20CSS%2C06B6D4" alt="Frontend"/>
+## 🎨 Frontend Development
 
-### Backend
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark&perline=4"/>
 
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=&align=center&showBorder=true&borderRadius=12&width=760&gap=14&bg=%230D1117&border=%2300E5FF&badge=%230D1117&line1=node.js%2CNode.js%2C339933%3Bexpress%2CExpress.js%2C2A2A2A" alt="Backend"/>
+<br/><br/>
 
-### Database
+## ⚙️ Backend Development
 
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=&align=center&showBorder=true&borderRadius=12&width=760&gap=14&bg=%230D1117&border=%23BC13FE&badge=%230D1117&line1=mongodb%2CMongoDB%2C47A248%3Bmysql%2CMySQL%2C4479A1" alt="Database"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=2"/>
 
-### AI / Data Science
+<br/><br/>
 
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=&align=center&showBorder=true&borderRadius=12&width=760&gap=14&bg=%230D1117&border=%2300E5FF&badge=%230D1117&line1=python%2CPython%2C3776AB%3Bnumpy%2CNumPy%2C013243%3Bpandas%2Cpandas%2C150458%3Bscikitlearn%2Cscikit-learn%2CF7931E%3Bopenai%2CGenerative%20AI%2C412991" alt="AI and Data Science"/>
+## 🗄️ Databases
 
-<img src="https://img.shields.io/badge/NLP-FFEE00?style=for-the-badge&logoColor=000000&labelColor=0D1117&color=8B2CF5" alt="NLP"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark&perline=2"/>
 
-### Tools
+<br/><br/>
 
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=&align=center&showBorder=true&borderRadius=12&width=760&gap=14&bg=%230D1117&border=%23BC13FE&badge=%230D1117&line1=git%2CGit%2CF05032%3Bgithub%2CGitHub%2C6E6E6E%3Bvisualstudiocode%2CVS%20Code%2C007ACC%3Bpostman%2CPostman%2CFF6C37%3Bmatlab%2CMATLAB%2C0076A8%3Bautodesk%2CFusion%20360%2CFF6600" alt="Tools"/>
+## 🤖 AI & Data Science
+
+<img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn&theme=dark&perline=4"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Generative%20AI-BC13FE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-FF006E?style=for-the-badge"/>
+
+<br/><br/>
+
+## 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,matlab&theme=dark&perline=5"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/pink-line.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/pink-line.gif" width="100%"/>
 </div>
 
 # 📅 GitHub Contribution Activity
 
-### ✨ Dakshayani's Last 30 Days Contribution Graph ✨
+### ✨ My Last 30 Days Contribution Graph ✨
 
 <div align="center">
 
 <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Cheriex777&days=30&bg_color=0D1117&color=00E5FF&line=FF00CC&point=FFFFFF&area=true&area_color=FF00CC&hide_border=true&custom_title=Dakshayani%27s%20Last%2030%20Days%20Contribution%20Graph"
-  width="100%"
-  alt="Dakshayani's Last 30 Days GitHub Contribution Graph"
+src="https://github.pumbas.net/api/contributions/Cheriex777?days=30&colour=FF00CC&bgColour=0D1117&dotColour=FFFFFF&borderRadius=12"
+width="100%"
+alt="Dakshayani's Last 30 Days GitHub Contributions"
 />
 
 </div>
 
 <br/>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/pink-line.gif" width="100%"/>
+</div>
+
 # ✍️ Dev Quote
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="85%"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/pink-line.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/pink-line.gif" width="100%"/>
 </div>
 
 # 🎯 Currently Learning
 
 <div align="center">
 
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0D1117?style=for-the-badge&logoColor=white&color=1a1a2e&labelColor=00E5FF)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00E5FF?style=for-the-badge&logo=leetcode&logoColor=white)
 
-![FullStack](https://img.shields.io/badge/Full--Stack%20Development-0D1117?style=for-the-badge&logoColor=white&color=1a1a2e&labelColor=BC13FE)
+![FullStack](https://img.shields.io/badge/Full--Stack%20Development-BC13FE?style=for-the-badge)
 
-![GenAI](https://img.shields.io/badge/Generative%20AI-0D1117?style=for-the-badge&logoColor=white&color=1a1a2e&labelColor=FF006E)
+![GenAI](https://img.shields.io/badge/Generative%20AI-FF006E?style=for-the-badge)
 
-![ML](https://img.shields.io/badge/Machine%20Learning-0D1117?style=for-the-badge&logoColor=white&color=1a1a2e&labelColor=00E5FF)
+![ML](https://img.shields.io/badge/Machine%20Learning-007CF0?style=for-the-badge)
 
-![DS](https://img.shields.io/badge/Data%20Science-0D1117?style=for-the-badge&logoColor=white&color=1a1a2e&labelColor=BC13FE)
+![DS](https://img.shields.io/badge/Data%20Science-00E5FF?style=for-the-badge)
 
-![OSS](https://img.shields.io/badge/Open%20Source-0D1117?style=for-the-badge&logoColor=white&color=1a1a2e&labelColor=FF006E)
+![OSS](https://img.shields.io/badge/Open%20Source-BC13FE?style=for-the-badge)
 
 </div>
 
 <br/>
+
+# 📊 Profile Views
 
 <div align="center">
 
