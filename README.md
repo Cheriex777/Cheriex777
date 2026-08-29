@@ -33,7 +33,7 @@
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/pink-line.gif" width="100%"/>
 </div>
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 <div align="center">
 
@@ -71,25 +71,23 @@
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/pink-line.gif" width="100%"/>
 </div>
 
-## 📅 GitHub Contribution Activity
+# 📅 GitHub Contribution Activity
 
-GitHub's **native contribution calendar** appears automatically on your profile.
-
-### ✨ Dakshayani's Contribution Graph ✨
+### ✨ Dakshayani's Last 30 Days Contribution Graph ✨
 
 <div align="center">
 
 <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Cheriex777&bg_color=0D1117&color=00E5FF&line=FF00CC&point=FFFFFF&area=true&area_color=FF00CC&hide_border=true&custom_title=Dakshayani%27s%20Contribution%20Graph"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Cheriex777&days=30&bg_color=0D1117&color=00E5FF&line=FF00CC&point=FFFFFF&area=true&area_color=FF00CC&hide_border=true&custom_title=Dakshayani%27s%20Last%2030%20Days%20Contribution%20Graph"
   width="100%"
-  alt="Dakshayani's GitHub Contribution Graph"
+  alt="Dakshayani's Last 30 Days GitHub Contribution Graph"
 />
 
 </div>
 
 <br/>
 
-## ✍️ Dev Quote
+# ✍️ Dev Quote
 
 <div align="center">
 
@@ -103,7 +101,7 @@ GitHub's **native contribution calendar** appears automatically on your profile.
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/pink-line.gif" width="100%"/>
 </div>
 
-## 🎯 Currently Learning
+# 🎯 Currently Learning
 
 <div align="center">
 
